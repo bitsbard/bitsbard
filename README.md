@@ -1,5 +1,3 @@
-This GIF visualizes the core transformation of the Hopf fibration in 3D space. This is a project dedicated to mathematical beauty.
-
-View the entire transformation [here](https://youtu.be/TeCymRuSaKE)
+This GIF was made from a project I dedicated to mathematical beauty. View the entire transformation [here](https://youtu.be/TeCymRuSaKE)
 
 ![Hopf Fibration](./hopf_fibration.gif)
