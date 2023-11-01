@@ -1,2 +1,2 @@
-This GIF was made from a project I dedicated to mathematical beauty. View the entire transformation [here](https://youtu.be/TeCymRuSaKE)
+This GIF was made from a project I dedicated to mathematical beauty.
 ![Hopf Fibration](./hopf_fibration.gif)
