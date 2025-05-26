@@ -1,1 +1,1 @@
-Building startups. Want to build a SaaS? Visit [my site](https://algorism.vercel.app/) and let's talk
+Building startups. Want to build a SaaS? Visit [my site](www.millsapps.com) and let's talk
